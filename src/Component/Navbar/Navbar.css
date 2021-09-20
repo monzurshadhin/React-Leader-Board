@@ -1,0 +1,15 @@
+.top-nav {
+  background-color: #562eff;
+  margin-bottom: 36px;
+}
+.logo {
+  color: white;
+  font-weight: 500;
+  font-size: 24px;
+}
+.logo img {
+  margin-right: 10px;
+}
+.nav-item {
+  margin-left: 36px;
+}

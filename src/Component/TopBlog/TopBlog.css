@@ -1,0 +1,25 @@
+.title {
+  color: #562eff;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+.top-blog {
+  padding: 30px;
+}
+.blog-img {
+  width: 177px;
+  height: 117px;
+}
+.blog-title {
+  width: 200px;
+}
+.blog-title h4 {
+  font-size: 20px;
+  font-weight: 500;
+}
+.blog-title small span {
+  color: #562eff;
+}
+.blog {
+  margin-bottom: 20px;
+}
